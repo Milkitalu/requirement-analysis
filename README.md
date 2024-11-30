@@ -49,3 +49,27 @@ The software requirement specification (SRS) which means to specify the requirem
 After developing the SRS, it must be reviewed to check whether it can be improved or not and must be refined to make it better and increase the quality. 
 
 
+## 2.Why is Requirement Analysis Important? ##
+
+
+**Requirements analysis is important** because it helps ensure that a project meets the needs of the customer, is delivered on time and within budget, and has few or no faults. It also helps to reduce rework, improve communication, and increase consumer satisfaction. 
+
+**Here are some benefits of requirements analysis**:
+
+•**Define user needs**Requirements analysis helps software engineers understand what the user needs early in the development process. 
+
+•**Prioritize requirements**
+Requirements analysis helps organizations align their development process with business goals, so they can prioritize the requirements that have the most impact.
+
+•**Identify key stakeholders**
+Requirements analysis helps identify the people in an organization who will be affected by the project outcome. 
+
+•**Analyze feasibility**
+Requirements analysis helps determine a product's reliability and identify any major problems. 
+
+•**Reduce ambiguities**
+Requirements analysis helps reduce ambiguities and misunderstandings, which can lead to project delays or failures. 
+
+•**Resolve conflicts**
+Requirements analysis helps resolve conflicting requirements by consulting primary stakeholders and performing scenario analysis.
+
