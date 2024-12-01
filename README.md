@@ -210,7 +210,10 @@ It represents the interaction between actors (users or external systems) and a s
     •	Thought structure for business analysts
 
     Use case diagrams can provide business analysts with a thought structure for investigating business rules. 
+ 
+ **Here is my Hotel booking usecase diagiram.**
 
+ https://drive.google.com/file/d/1eqA2EKrAc4eoyty9HJsGeBxqurlfJYwK/view?usp=sharing
 ## 6. Define Acceptance Criteria ##
 
 **Acceptance criteria refer to a set of predetermined requirements that have to be fulfilled for a user story to be considered finished. ** These are also sometimes called the “definition of done” because they define the parameters and requirements that developers must meet in order for the user story to be regarded as complete. It act as a pass/fail checklist that defines the success of the product or a feature from an end-user perspective.
