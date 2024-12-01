@@ -208,5 +208,31 @@ It represents the interaction between actors (users or external systems) and a s
     Use case diagrams can provide developers with context for what they are programming. 
 
     •	Thought structure for business analysts
-    
+
     Use case diagrams can provide business analysts with a thought structure for investigating business rules. 
+
+## 6. Define Acceptance Criteria ##
+
+**Acceptance criteria refer to a set of predetermined requirements that have to be fulfilled for a user story to be considered finished. ** These are also sometimes called the “definition of done” because they define the parameters and requirements that developers must meet in order for the user story to be regarded as complete. It act as a pass/fail checklist that defines the success of the product or a feature from an end-user perspective.
+Acceptance criteria are typically a collaborative effort between the product owner and the development team. The product owner is responsible for providing business context and requirements, while the development team contributes technical insights. Together, they define it as it meet both business and technical needs.
+
+**Importance of Acceptance Criteria**
+
+    Here are the following acceptance criteria mentioned below:
+
+    1.	Define Expectations: Clearly outline what needs to be accomplished for a user story or feature to be considered done.
+
+    2.	Communication: Facilitate effective communication between development teams, product owners, and stakeholders, ensuring everyone is on the same page.
+
+    3.	Quality Assurance: Act as a quality control measure, helping to prevent misunderstandings and minimize defects.
+
+    4.	Scope Control: Prevent scope creep by setting clear boundaries on what is and isn't part of the user story or feature.
+    
+    5.	Testing Guidelines: Provide guidance for writing test cases and conducting acceptance testing.
+
+**There are different types of acceptance criteria:**
+
+    1.	Functional: Describes the desired functionality, behavior, or features of the software.
+    2.	Non-Functional: Focuses on aspects such as performance, security, usability, and scalability.
+    3.	Positive: Describes the expected positive outcomes when the feature works correctly.
+    4.	Negative: Outlines the behavior or outcomes when the feature fails or encounters errors.
